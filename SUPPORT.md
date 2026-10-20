@@ -45,7 +45,7 @@ King's Game requires **iOS 17.0 or later** and is fully compatible with iPhone a
 
 If you encountered a bug, experienced a purchase issue, or have ideas for decrees, please get in touch:
 
-- **Email Support:** [support@kingsgame.app](mailto:support@kingsgame.app)
+- **Email Support:** [lloyd.vu.dev@gmail.com](mailto:lloyd.vu.dev@gmail.com)
 - **GitHub Issues:** [Submit an Issue on GitHub](https://github.com/lloydvu/iOS-KingsGame/issues)
 - **Developer:** Lloyd Vu
 
