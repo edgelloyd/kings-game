@@ -70,5 +70,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 If you have any questions, feedback, or concerns regarding this Privacy Policy or King's Game, please contact:
 
 - **Developer:** Lloyd Vu
-- **Email:** support@kingsgame.app *(or your preferred support email)*
+- **Email:** lloyd.vu.dev@gmail.com
 - **GitHub Repository:** [https://github.com/lloydvu/iOS-KingsGame](https://github.com/lloydvu/iOS-KingsGame)
